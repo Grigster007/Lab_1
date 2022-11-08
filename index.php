@@ -26,7 +26,7 @@
         }
     } else {
 
-        header("Location: signup.php");
+        header("Location: signup.php"); //перенаправление
     }
 
 ?>
